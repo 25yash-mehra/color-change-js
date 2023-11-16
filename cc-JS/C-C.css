@@ -1,0 +1,17 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.butn{
+    padding: 12px 32px;
+    border-radius: 10px;
+    text-transform: capitalize;
+    font-size: 18px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgb(60, 129, 219);
+    box-shadow:  3px 1px 13px 1px rgb(135, 125, 143);
+    border: none;
+}
